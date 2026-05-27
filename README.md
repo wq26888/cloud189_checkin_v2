@@ -1,5 +1,7 @@
 # Cloud189 Check-in Script
 
+_Last updated: 2026-05-27_
+
 A small Python script for daily Cloud189 check-in, mainly intended for personal automation environments such as QingLong.
 
 ## Requirements
