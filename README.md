@@ -1,5 +1,8 @@
 # Cloud189 Check-in Script
 
+> 这个仓库已经停止单独维护。最新版本已合并到
+> [wq268-ql-scripts/cloud189](https://github.com/wq26888/wq268-ql-scripts/tree/main/cloud189)。
+
 _Last updated: 2026-05-27_
 
 A small Python script for daily Cloud189 check-in, mainly intended for personal automation environments such as QingLong.
@@ -49,4 +52,3 @@ If you need notifications, place `notify.py` in the same directory as the script
 ## Notes
 
 This script is for personal use only. Use it with your own account and at your own risk.
-
